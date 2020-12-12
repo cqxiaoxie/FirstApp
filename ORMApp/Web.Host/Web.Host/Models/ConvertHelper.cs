@@ -28,6 +28,5 @@ namespace Web.Host.Models
             
             return result;
         }
-
     }
 }
