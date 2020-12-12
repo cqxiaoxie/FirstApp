@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XAcQY9m0rPW6+/fwgqmhaCtHM4bxBtcM87R1Nqslut6Bj2AF0XaAvV7+KgvvA/HClm6NEO9H2qNJlBRfENlURA==",
+  "dgSpecHash": "RQtCUKgUL5MJ/s83XSMIO5YEKdOr+xHv765oYvWLStY4YP5zlu5XUNdBUhytl/8lg6S0CSdjQLG6Riqp/09IgQ==",
   "success": true,
-  "projectFilePath": "E:\\workplace\\ORMApp\\PostgreSql.NhibernateCore\\PostgreSql.NhibernateCore.csproj",
+  "projectFilePath": "E:\\repository\\ORMApp\\PostgreSql.NhibernateCore\\PostgreSql.NhibernateCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\iesi.collections\\4.0.4\\iesi.collections.4.0.4.nupkg.sha512",

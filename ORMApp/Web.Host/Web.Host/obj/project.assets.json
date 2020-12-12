@@ -2001,11 +2001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\workplace\\ORMApp\\Web.Host\\Web.Host\\Web.Host.csproj",
+      "projectUniqueName": "E:\\repository\\ORMApp\\Web.Host\\Web.Host\\Web.Host.csproj",
       "projectName": "Web.Host",
-      "projectPath": "E:\\workplace\\ORMApp\\Web.Host\\Web.Host\\Web.Host.csproj",
+      "projectPath": "E:\\repository\\ORMApp\\Web.Host\\Web.Host\\Web.Host.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\workplace\\ORMApp\\Web.Host\\Web.Host\\obj\\",
+      "outputPath": "E:\\repository\\ORMApp\\Web.Host\\Web.Host\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2022,8 +2022,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\workplace\\ORMApp\\PostgreSql.EFCore\\PostgreSql.EFCore.csproj": {
-              "projectPath": "E:\\workplace\\ORMApp\\PostgreSql.EFCore\\PostgreSql.EFCore.csproj"
+            "E:\\repository\\ORMApp\\PostgreSql.EFCore\\PostgreSql.EFCore.csproj": {
+              "projectPath": "E:\\repository\\ORMApp\\PostgreSql.EFCore\\PostgreSql.EFCore.csproj"
             }
           }
         }

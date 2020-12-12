@@ -5334,11 +5334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\workplace\\ORMApp\\PostgreSql.NhibernateCore\\PostgreSql.NhibernateCore.csproj",
+      "projectUniqueName": "E:\\repository\\ORMApp\\PostgreSql.NhibernateCore\\PostgreSql.NhibernateCore.csproj",
       "projectName": "PostgreSql.NhibernateCore",
-      "projectPath": "E:\\workplace\\ORMApp\\PostgreSql.NhibernateCore\\PostgreSql.NhibernateCore.csproj",
+      "projectPath": "E:\\repository\\ORMApp\\PostgreSql.NhibernateCore\\PostgreSql.NhibernateCore.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\workplace\\ORMApp\\PostgreSql.NhibernateCore\\obj\\",
+      "outputPath": "E:\\repository\\ORMApp\\PostgreSql.NhibernateCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

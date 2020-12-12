@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z1RDGhmmJEc7wqc6Zi8kMcTsh30spPpkPJ1ti+Gv++TBOdsZEP83fy7jk7RKzpV6aA7ydAneiVmulix6bemt3w==",
+  "dgSpecHash": "QonpIqOtjiZIaBPd+nqVY6Box1mTRQpKatJIuHr70t1sWYVbO/11+hfrQiuVcRWmP0vGLeMfzuw0XI5//gW+Nw==",
   "success": true,
-  "projectFilePath": "E:\\workplace\\ORMApp\\PostgreSql.EFCore\\PostgreSql.EFCore.csproj",
+  "projectFilePath": "E:\\repository\\ORMApp\\PostgreSql.EFCore\\PostgreSql.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

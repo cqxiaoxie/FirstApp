@@ -2016,11 +2016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\workplace\\ORMApp\\PostgreSql.EFCore\\PostgreSql.EFCore.csproj",
+      "projectUniqueName": "E:\\repository\\ORMApp\\PostgreSql.EFCore\\PostgreSql.EFCore.csproj",
       "projectName": "PostgreSql.EFCore",
-      "projectPath": "E:\\workplace\\ORMApp\\PostgreSql.EFCore\\PostgreSql.EFCore.csproj",
+      "projectPath": "E:\\repository\\ORMApp\\PostgreSql.EFCore\\PostgreSql.EFCore.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\workplace\\ORMApp\\PostgreSql.EFCore\\obj\\",
+      "outputPath": "E:\\repository\\ORMApp\\PostgreSql.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

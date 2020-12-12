@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "naeMpjuXY/7lFfTlnDdF4bSFrQ1Ud1qcTv7Tz8zEoTQruAVjkHvwl3Ovy5Cut6wfAlGXF6TK0WlGsGxOattvAQ==",
+  "dgSpecHash": "06ukHkKh7N0MQ7lPIEEd+yEUoRqHyVgkKQzQSzU21993EHmOVkvFSjlzXq5tGpv5EBZqAriObGM4uKda93/rqw==",
   "success": true,
-  "projectFilePath": "E:\\workplace\\ORMApp\\TestApp\\TestApp.csproj",
+  "projectFilePath": "E:\\repository\\ORMApp\\TestApp\\TestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512",
