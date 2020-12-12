@@ -1,0 +1,19 @@
+﻿@using PostgreSql.EFCore.DBModel;
+@using Newtonsoft.Json;
+@{
+    ViewData["Title"] = "Home Page";
+    var users = ViewBag.users as List<Userinfo>;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@if (users?.Count > 0)
+{
+    foreach(var item in users)
+    {
+        <div>@(JsonConvert.SerializeObject(item))</div>    
+    }
+    
+}

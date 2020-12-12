@@ -1,0 +1,9 @@
+E:\workplace\ORMApp\PostgreSql.NhibernateCore\bin\Debug\netcoreapp3.1\PostgreSql.NhibernateCore.deps.json
+E:\workplace\ORMApp\PostgreSql.NhibernateCore\bin\Debug\netcoreapp3.1\PostgreSql.NhibernateCore.dll
+E:\workplace\ORMApp\PostgreSql.NhibernateCore\bin\Debug\netcoreapp3.1\PostgreSql.NhibernateCore.pdb
+E:\workplace\ORMApp\PostgreSql.NhibernateCore\obj\Debug\netcoreapp3.1\PostgreSql.NhibernateCore.csprojAssemblyReference.cache
+E:\workplace\ORMApp\PostgreSql.NhibernateCore\obj\Debug\netcoreapp3.1\PostgreSql.NhibernateCore.AssemblyInfoInputs.cache
+E:\workplace\ORMApp\PostgreSql.NhibernateCore\obj\Debug\netcoreapp3.1\PostgreSql.NhibernateCore.AssemblyInfo.cs
+E:\workplace\ORMApp\PostgreSql.NhibernateCore\obj\Debug\netcoreapp3.1\PostgreSql.NhibernateCore.csproj.CoreCompileInputs.cache
+E:\workplace\ORMApp\PostgreSql.NhibernateCore\obj\Debug\netcoreapp3.1\PostgreSql.NhibernateCore.dll
+E:\workplace\ORMApp\PostgreSql.NhibernateCore\obj\Debug\netcoreapp3.1\PostgreSql.NhibernateCore.pdb

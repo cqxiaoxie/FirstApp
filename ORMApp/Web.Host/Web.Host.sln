@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.Host", "Web.Host\Web.Host.csproj", "{128FEC59-9692-44E8-9ACD-56EE1D7DD066}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgreSql.EFCore", "..\PostgreSql.EFCore\PostgreSql.EFCore.csproj", "{807208AA-425C-40D8-94D8-F54D368ED652}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgreSql.NhibernateCore", "..\PostgreSql.NhibernateCore\PostgreSql.NhibernateCore.csproj", "{EE4D1430-E2B7-4F21-976E-4DDACFDB308D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "..\TestApp\TestApp.csproj", "{7A1DB145-586F-4A12-AD3C-625F21FD886D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128FEC59-9692-44E8-9ACD-56EE1D7DD066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128FEC59-9692-44E8-9ACD-56EE1D7DD066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128FEC59-9692-44E8-9ACD-56EE1D7DD066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128FEC59-9692-44E8-9ACD-56EE1D7DD066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807208AA-425C-40D8-94D8-F54D368ED652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807208AA-425C-40D8-94D8-F54D368ED652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807208AA-425C-40D8-94D8-F54D368ED652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807208AA-425C-40D8-94D8-F54D368ED652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4D1430-E2B7-4F21-976E-4DDACFDB308D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4D1430-E2B7-4F21-976E-4DDACFDB308D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4D1430-E2B7-4F21-976E-4DDACFDB308D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4D1430-E2B7-4F21-976E-4DDACFDB308D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1DB145-586F-4A12-AD3C-625F21FD886D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1DB145-586F-4A12-AD3C-625F21FD886D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1DB145-586F-4A12-AD3C-625F21FD886D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1DB145-586F-4A12-AD3C-625F21FD886D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E18E15D-1252-42D2-A2A3-C9B291CF76B5}
+	EndGlobalSection
+EndGlobal

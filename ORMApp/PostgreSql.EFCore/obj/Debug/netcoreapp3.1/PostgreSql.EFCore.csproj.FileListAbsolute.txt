@@ -1,0 +1,12 @@
+E:\workplace\ORMApp\PostgreSql.EFCore\bin\Debug\netcoreapp3.1\PostgreSql.EFCore.deps.json
+E:\workplace\ORMApp\PostgreSql.EFCore\bin\Debug\netcoreapp3.1\PostgreSql.EFCore.dll
+E:\workplace\ORMApp\PostgreSql.EFCore\bin\Debug\netcoreapp3.1\PostgreSql.EFCore.pdb
+E:\workplace\ORMApp\PostgreSql.EFCore\obj\Debug\netcoreapp3.1\PostgreSql.EFCore.AssemblyInfoInputs.cache
+E:\workplace\ORMApp\PostgreSql.EFCore\obj\Debug\netcoreapp3.1\PostgreSql.EFCore.AssemblyInfo.cs
+E:\workplace\ORMApp\PostgreSql.EFCore\obj\Debug\netcoreapp3.1\PostgreSql.EFCore.csproj.CoreCompileInputs.cache
+E:\workplace\ORMApp\PostgreSql.EFCore\obj\Debug\netcoreapp3.1\PostgreSql.EFCore.dll
+E:\workplace\ORMApp\PostgreSql.EFCore\obj\Debug\netcoreapp3.1\PostgreSql.EFCore.pdb
+E:\workplace\ORMApp\PostgreSql.EFCore\bin\Debug\netcoreapp3.1\PostgreSql.EFCore.runtimeconfig.json
+E:\workplace\ORMApp\PostgreSql.EFCore\bin\Debug\netcoreapp3.1\PostgreSql.EFCore.runtimeconfig.dev.json
+E:\workplace\ORMApp\PostgreSql.EFCore\obj\Debug\netcoreapp3.1\PostgreSql.EFCore.genruntimeconfig.cache
+E:\workplace\ORMApp\PostgreSql.EFCore\obj\Debug\netcoreapp3.1\PostgreSql.EFCore.csprojAssemblyReference.cache

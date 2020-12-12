@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DataAccessor.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NHibernate" Version="5.3.5" />
+    <PackageReference Include="NHibernate.Mapping.Attributes" Version="5.1.0" />
+    <PackageReference Include="NHibernate.NetCore" Version="3.1.7" />
+    <PackageReference Include="Npgsql" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>
